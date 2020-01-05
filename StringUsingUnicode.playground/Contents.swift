@@ -18,5 +18,22 @@ output = "♥"
 print("String literal : ",output)
 print("character count is  : ",output.count)
 
+//bit byte KB MB GB and TB
+
+// bit 0,1
+// byte = 8 b
+//00000000
+//00000001
+//00000010
+
+/*
+ 1000 bytes = 1KB
+ 1000 KB = 1MB
+ 1000 MB = 1GB
+ 1000 GB = 1TB
+ 
+ 1,000,000,000,000 = 1 TB
+ */
+
 
 
